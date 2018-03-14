@@ -145,7 +145,7 @@ namespace TimerShow.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("378")]
+        [global::System.Configuration.DefaultSettingValueAttribute("386")]
         public int price_point_x1 {
             get {
                 return ((int)(this["price_point_x1"]));
@@ -157,7 +157,7 @@ namespace TimerShow.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("437")]
+        [global::System.Configuration.DefaultSettingValueAttribute("435")]
         public int price_point_y1 {
             get {
                 return ((int)(this["price_point_y1"]));
@@ -337,7 +337,7 @@ namespace TimerShow.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("351")]
+        [global::System.Configuration.DefaultSettingValueAttribute("358")]
         public int hhmmss_point_x1 {
             get {
                 return ((int)(this["hhmmss_point_x1"]));
@@ -349,7 +349,7 @@ namespace TimerShow.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("419")]
+        [global::System.Configuration.DefaultSettingValueAttribute("420")]
         public int hhmmss_point_y1 {
             get {
                 return ((int)(this["hhmmss_point_y1"]));
@@ -385,7 +385,7 @@ namespace TimerShow.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("892")]
+        [global::System.Configuration.DefaultSettingValueAttribute("902")]
         public int my_price_x1 {
             get {
                 return ((int)(this["my_price_x1"]));

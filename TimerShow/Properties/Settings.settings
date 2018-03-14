@@ -33,10 +33,10 @@
       <Value Profile="(Default)">528</Value>
     </Setting>
     <Setting Name="price_point_x1" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">378</Value>
+      <Value Profile="(Default)">386</Value>
     </Setting>
     <Setting Name="price_point_y1" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">437</Value>
+      <Value Profile="(Default)">435</Value>
     </Setting>
     <Setting Name="price_point_x2" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">423</Value>
@@ -81,10 +81,10 @@
       <Value Profile="(Default)">290</Value>
     </Setting>
     <Setting Name="hhmmss_point_x1" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">351</Value>
+      <Value Profile="(Default)">358</Value>
     </Setting>
     <Setting Name="hhmmss_point_y1" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">419</Value>
+      <Value Profile="(Default)">420</Value>
     </Setting>
     <Setting Name="hhmmss_point_x2" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">417</Value>
@@ -93,7 +93,7 @@
       <Value Profile="(Default)">435</Value>
     </Setting>
     <Setting Name="my_price_x1" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">892</Value>
+      <Value Profile="(Default)">902</Value>
     </Setting>
     <Setting Name="my_price_y1" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">293</Value>
