@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TimerShow.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="x2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1028</Value>
+    </Setting>
+    <Setting Name="y2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">435</Value>
+    </Setting>
+    <Setting Name="x3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">960</Value>
+    </Setting>
+    <Setting Name="y3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">481</Value>
+    </Setting>
+    <Setting Name="x4" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">782</Value>
+    </Setting>
+    <Setting Name="y4" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">466</Value>
+    </Setting>
+    <Setting Name="x1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1022</Value>
+    </Setting>
+    <Setting Name="y1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">328</Value>
+    </Setting>
+    <Setting Name="xhook" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">779</Value>
+    </Setting>
+    <Setting Name="yhook" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">528</Value>
+    </Setting>
+    <Setting Name="price_point_x1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">378</Value>
+    </Setting>
+    <Setting Name="price_point_y1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">437</Value>
+    </Setting>
+    <Setting Name="price_point_x2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">423</Value>
+    </Setting>
+    <Setting Name="price_point_y2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">454</Value>
+    </Setting>
+    <Setting Name="ss_point_x1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">352</Value>
+    </Setting>
+    <Setting Name="ss_point_y1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">421</Value>
+    </Setting>
+    <Setting Name="ss_point_x2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">414</Value>
+    </Setting>
+    <Setting Name="ss_point_y2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">411</Value>
+    </Setting>
+    <Setting Name="mm_point_x1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">372</Value>
+    </Setting>
+    <Setting Name="mm_point_y1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">401</Value>
+    </Setting>
+    <Setting Name="mm_point_x2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">390</Value>
+    </Setting>
+    <Setting Name="mm_point_y2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">414</Value>
+    </Setting>
+    <Setting Name="fprice_point_x1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">895</Value>
+    </Setting>
+    <Setting Name="fprice_point_y1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">274</Value>
+    </Setting>
+    <Setting Name="fprice_point_x2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">946</Value>
+    </Setting>
+    <Setting Name="fprice_point_y2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">290</Value>
+    </Setting>
+    <Setting Name="hhmmss_point_x1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">351</Value>
+    </Setting>
+    <Setting Name="hhmmss_point_y1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">419</Value>
+    </Setting>
+    <Setting Name="hhmmss_point_x2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">417</Value>
+    </Setting>
+    <Setting Name="hhmmss_point_y2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">435</Value>
+    </Setting>
+    <Setting Name="my_price_x1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">892</Value>
+    </Setting>
+    <Setting Name="my_price_y1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">293</Value>
+    </Setting>
+    <Setting Name="my_price_x2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">946</Value>
+    </Setting>
+    <Setting Name="my_price_y2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">310</Value>
+    </Setting>
+    <Setting Name="autodetectHHMMSS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">11:29:52</Value>
+    </Setting>
+    <Setting Name="autodetectPriceDistance" Type="System.String" Scope="User">
+      <Value Profile="(Default)">800</Value>
+    </Setting>
+    <Setting Name="price_point_L" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">47</Value>
+    </Setting>
+    <Setting Name="price_point_H" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">17</Value>
+    </Setting>
+    <Setting Name="hhmmss_point_L" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">66</Value>
+    </Setting>
+    <Setting Name="hhmmss_point_H" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="my_price_L" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">55</Value>
+    </Setting>
+    <Setting Name="my_price_H" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

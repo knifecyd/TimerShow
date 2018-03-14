@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="TimerShow.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+            <section name="TimerShow.Settings1" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+    <userSettings>
+        <TimerShow.Properties.Settings>
+            <setting name="x2" serializeAs="String">
+                <value>1028</value>
+            </setting>
+            <setting name="y2" serializeAs="String">
+                <value>435</value>
+            </setting>
+            <setting name="x3" serializeAs="String">
+                <value>960</value>
+            </setting>
+            <setting name="y3" serializeAs="String">
+                <value>481</value>
+            </setting>
+            <setting name="x4" serializeAs="String">
+                <value>782</value>
+            </setting>
+            <setting name="y4" serializeAs="String">
+                <value>466</value>
+            </setting>
+            <setting name="x1" serializeAs="String">
+                <value>1022</value>
+            </setting>
+            <setting name="y1" serializeAs="String">
+                <value>328</value>
+            </setting>
+            <setting name="xhook" serializeAs="String">
+                <value>777</value>
+            </setting>
+            <setting name="yhook" serializeAs="String">
+                <value>500</value>
+            </setting>
+            <setting name="price_point_x1" serializeAs="String">
+                <value>378</value>
+            </setting>
+            <setting name="price_point_y1" serializeAs="String">
+                <value>418</value>
+            </setting>
+            <setting name="price_point_x2" serializeAs="String">
+                <value>420</value>
+            </setting>
+            <setting name="price_point_y2" serializeAs="String">
+                <value>431</value>
+            </setting>
+            <setting name="ss_point_x1" serializeAs="String">
+                <value>396</value>
+            </setting>
+            <setting name="ss_point_y1" serializeAs="String">
+                <value>401</value>
+            </setting>
+            <setting name="ss_point_x2" serializeAs="String">
+                <value>414</value>
+            </setting>
+            <setting name="ss_point_y2" serializeAs="String">
+                <value>415</value>
+            </setting>
+            <setting name="mm_point_x1" serializeAs="String">
+                <value>372</value>
+            </setting>
+            <setting name="mm_point_y1" serializeAs="String">
+                <value>401</value>
+            </setting>
+            <setting name="mm_point_x2" serializeAs="String">
+                <value>390</value>
+            </setting>
+            <setting name="mm_point_y2" serializeAs="String">
+                <value>414</value>
+            </setting>
+            <setting name="fprice_point_x1" serializeAs="String">
+                <value>895</value>
+            </setting>
+            <setting name="fprice_point_y1" serializeAs="String">
+                <value>274</value>
+            </setting>
+            <setting name="fprice_point_x2" serializeAs="String">
+                <value>946</value>
+            </setting>
+            <setting name="fprice_point_y2" serializeAs="String">
+                <value>290</value>
+            </setting>
+            <setting name="hhmmss_point_x1" serializeAs="String">
+                <value>352</value>
+            </setting>
+            <setting name="hhmmss_point_y1" serializeAs="String">
+                <value>401</value>
+            </setting>
+            <setting name="hhmmss_point_x2" serializeAs="String">
+                <value>415</value>
+            </setting>
+            <setting name="hhmmss_point_y2" serializeAs="String">
+                <value>415</value>
+            </setting>
+            <setting name="my_price_x1" serializeAs="String">
+                <value>894</value>
+            </setting>
+            <setting name="my_price_y1" serializeAs="String">
+                <value>272</value>
+            </setting>
+            <setting name="my_price_x2" serializeAs="String">
+                <value>945</value>
+            </setting>
+            <setting name="my_price_y2" serializeAs="String">
+                <value>289</value>
+            </setting>
+            <setting name="设置" serializeAs="String">
+                <value>0</value>
+            </setting>
+        </TimerShow.Properties.Settings>
+        <TimerShow.Settings1>
+            <setting name="Setting" serializeAs="String">
+                <value />
+            </setting>
+        </TimerShow.Settings1>
+    </userSettings>
+</configuration>
